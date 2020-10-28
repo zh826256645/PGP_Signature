@@ -6,7 +6,7 @@ used to save my PGP public key
 - Public key: [ZH_PGP.pub](https://raw.githubusercontent.com/zh826256645/PGP_Signature/main/ZH_PGP.pub)
 
 ## Import My Public Key
-Download the [public key file](https://raw.githubusercontent.com/zh826256645/PGP_Signature/main/ZH_PGP.pub)
+Download the [public key file](https://raw.githubusercontent.com/zh826256645/PGP_Signature/main/ZH_PGP.pub)
 ```[shell]
 gpg --import ZH_PGP.pub
 ```
